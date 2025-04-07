@@ -1,8 +1,7 @@
 # 🚚 Truck Route Optimizer – Grid-Based Delivery Simulation in C
 
-A smart logistics simulation tool built in C to help optimize package delivery across a city grid. Designed as part of a Data Structures & Algorithms course, this system assigns packages to trucks based on distance, capacity, and delivery constraints – including blocked routes and multiple deliveries.
+A smart logistics simulation tool built in C to help optimize package delivery across a city grid. Designed as part of a Data Structures & Algorithms course, this system assigns packages to trucks based on distance, capacity and delivery constraints – including blocked routes and multiple deliveries.
 
-> 🧠 Built collaboratively for DSA456 (Data Structures & Algorithms) @ Seneca Polytechnic  
 > 📦 Real-world logistics, C-level performance, and dynamic routing logic
 
 ---
@@ -16,7 +15,7 @@ A smart logistics simulation tool built in C to help optimize package delivery a
   - **Blocked roads and delivery conflicts**
 - Uses **A* pathfinding** or similar optimization techniques for efficient delivery  
 - Divides packages into multiple trucks when needed  
-- Logs and visualizes optimal delivery routes
+- Logs optimal delivery routes
 
 ---
 
@@ -56,17 +55,16 @@ truck-route-optimizer/
 
 ## 👥 Team Members
 
-- Kemono Onomek  
-- Ronak Jung Rayamajhi  
-- Kate De Leon  
-- Jarod Jian Kang Hery Chen  
-- Carson Ji
+- Kemono  
+- Ronak
+- Kate
+- Jarod
+- Carson
 
 ---
 
 ## 🚦 Status
 
-✅ Fully functional CLI simulation  
 ✅ Documented & tested  
 ✅ Optimized with algorithmic efficiency  
 📌 Ideal for logistics case studies or academic demos
