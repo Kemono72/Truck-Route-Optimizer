@@ -13,7 +13,7 @@ A smart logistics simulation tool built in C to help optimize package delivery a
   - **Weight and capacity constraints**
   - **Shortest path to destination**
   - **Blocked roads and delivery conflicts**
-- Uses **A* pathfinding** or similar optimization techniques for efficient delivery  
+- Uses **A* pathfinding* or similar optimization techniques for efficient delivery  
 - Divides packages into multiple trucks when needed  
 - Logs optimal delivery routes
 
