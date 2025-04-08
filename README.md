@@ -8,7 +8,7 @@ A smart logistics simulation tool built in C to help optimize package delivery a
 
 ## 🔍 What It Does
 
-- Models a **25x25 city grid** with delivery zones, roads, and obstructions  
+- Models a **25x25 city grid** with delivery zones, roads and obstructions  
 - Dynamically assigns packages to trucks based on:
   - **Weight and capacity constraints**
   - **Shortest path to destination**
@@ -38,7 +38,6 @@ truck-route-optimizer/
 ├── test/               # Test plans and outputs
 ├── reports/            # Scrum and status reports
 ├── docs/               # Project writeups & requirements
-├── screenshots/        # Output visuals (if available)
 └── README.md           # This file
 ```
 
